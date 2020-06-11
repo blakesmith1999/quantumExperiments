@@ -1,4 +1,5 @@
 #&&
+//doesn't work
 from qiskit import *
 from qiskit.tools.visualization import plot_bloch_multivector
 circuit=QuantumCircuit(1,1)
